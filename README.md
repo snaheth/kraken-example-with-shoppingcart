@@ -11,7 +11,7 @@ Kraken with Shopping Cart, universal react view rendering, and PayPal integratio
 Clone, install and run.
 
 ```shell
-git clone git@github.com:krakenjs/kraken-example-with-shoppingcart.git
+git clone https://github.com/krakenjs/kraken-example-with-shoppingcart.git
 cd kraken-example-with-shoppingcart
 npm install
 npm start
